@@ -1,3 +1,6 @@
+Computing the bigram model (counts and probabilities) on the given corpus
+
+
 1. Open CommandPrompt and run the python file - "NLP_Homework_2.py" along with the below arguments. (Place the corpus file in the same folder)
 2. Arguments are : 
 	Corpus training data : NLP6320_POSTaggedTrainingSet-Windows.txt
